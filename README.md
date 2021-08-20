@@ -1,4 +1,12 @@
 ### Hi there 👋
+ 🔭 Socióloga (UBA).
+ 
+ 🧮 Maestranda en Análisis y Generación de Información Estadística (UNTREF).
+ 
+ ⚡ Interesada en los datos y, específicamente, en aquellos vinculados a la educación, la tencología y la cultura. 
+ 
+ 
+
 
 <!--
 **melinaschamberger/melinaschamberger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
