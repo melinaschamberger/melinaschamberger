@@ -1,7 +1,7 @@
 ### Hi there 👋
  🔭 Socióloga (UBA).
  
- 🧮 Maestranda en Análisis y Generación de Información Estadística (UNTREF).
+ 🧮 Maestranda en Generación y Análisis de Información Estadística (UNTREF). 
  
  ⚡ Interesada en los datos y, específicamente, en aquellos vinculados a la educación, la tencología y la cultura. 
  
