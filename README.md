@@ -3,7 +3,7 @@
  
  🧮 Maestranda en Generación y Análisis de Información Estadística (UNTREF). 
  
- ⚡ Interesada en los datos y, específicamente, en aquellos vinculados a la educación, la tencología y la cultura. 
+ ⚡ Interesada en los datos y, específicamente, en aquellos vinculados a la educación, la cultura, la tecnología y los datos. 
  
  
 
