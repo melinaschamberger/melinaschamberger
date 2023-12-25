@@ -3,7 +3,7 @@
  
  🧮 Maestranda en Generación y Análisis de Información Estadística (UNTREF). 
  
- 🕶️ UX Quantitative Analyst. 
+ 🕶️ Quantitative Analyst. 
  
  ⚡ Interesada en los datos y, específicamente, en aquellos vinculados a la educación, la cultura y la tecnología. 
  
